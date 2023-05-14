@@ -100,7 +100,7 @@ body {
 .container .card .box .content a{
     position: relative;
     display: inline-block;
-    background: #03a8f4bb;
+    background: #34075ecc;
     margin-top: 15px;
     border-radius: 20px;
     color: #ebf5fc;
@@ -108,8 +108,11 @@ body {
     font-weight: 400;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
     padding: 8px 20px;
+    min-width: 150px;
+
 }
 
 .container .card:hover .box .content a{
-    background-color: rgba(91, 24, 153, 0.801);
+    background-color: #5b1899cc;
+    min-width: 150px;
 }
