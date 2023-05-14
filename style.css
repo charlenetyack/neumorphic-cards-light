@@ -95,7 +95,7 @@ body {
 }
 
 .container .card:hover .box .content p{
-    color: #fff;
+    color: #423d3d;
 }
 .container .card .box .content a{
     position: relative;
